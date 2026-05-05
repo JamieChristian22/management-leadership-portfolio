@@ -1,0 +1,5 @@
+RiskID,Risk,Probability,Impact,Mitigation,Status
+R1,Creative fatigue reduces click-through rate,High,Medium,Rotate creative every two weeks and monitor CTR by audience,Closed
+R2,Landing page changes hurt SEO content clarity,Low,Medium,Maintain keyword relevance and track organic bounce rate,Mitigated
+R3,Sales rejects lower-quality leads,Medium,High,Define MQL criteria with sales and track lead source quality,Closed
+R4,Attribution data is inconsistent,Medium,Medium,Use standardized UTM naming and weekly QA checks,Closed

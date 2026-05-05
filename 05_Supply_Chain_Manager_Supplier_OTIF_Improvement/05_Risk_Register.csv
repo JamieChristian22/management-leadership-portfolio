@@ -1,0 +1,5 @@
+RiskID,Risk,Probability,Impact,Mitigation,Status
+R1,Supplier refuses SLA reporting,Medium,High,Tie reporting to preferred supplier status and QBR agenda,Mitigated
+R2,Reorder point changes increase inventory carrying cost,Medium,Medium,Limit adjustments to A-class critical materials,Closed
+R3,Internal buyers do not follow escalation path,Medium,Medium,Publish escalation matrix and audit weekly POs,Closed
+R4,Demand volatility makes forecasts unreliable,High,Medium,Use rolling 8-week demand review with sales input,Mitigated

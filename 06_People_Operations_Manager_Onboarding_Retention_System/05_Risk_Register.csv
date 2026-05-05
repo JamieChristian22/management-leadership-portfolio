@@ -1,0 +1,5 @@
+RiskID,Risk,Probability,Impact,Mitigation,Status
+R1,Managers see checklists as administrative burden,High,Medium,Reduce checklist to essential milestones and show retention impact,Closed
+R2,Buddy assignments are uneven across departments,Medium,Medium,Create rotating buddy pool by department,Closed
+R3,HRIS reminder rules are misconfigured,Medium,High,Test reminders with pilot cohort before full rollout,Closed
+R4,Survey response rates are low,Medium,Medium,Send surveys during scheduled onboarding touchpoints,Mitigated

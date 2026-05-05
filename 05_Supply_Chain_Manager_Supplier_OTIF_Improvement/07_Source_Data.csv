@@ -1,0 +1,6 @@
+Month,OTIFPct,ExpeditedFreightCost,AvgSupplierResponseHours,ProductionDelays,CriticalStockouts,SuppliersReviewed
+Jan,82,64000,42,18,9,3
+Feb,86,57500,34,15,7,6
+Mar,90,48600,26,11,5,9
+Apr,93,42100,19,8,3,11
+May,95,38500,16,6,2,12
