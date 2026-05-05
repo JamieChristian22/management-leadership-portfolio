@@ -1,0 +1,7 @@
+Week,ActiveUsers,AdoptionPct,RecordsMigrated,DuplicateRatePct,UATPassPct,OpenIssues,PipelineValueAccuracyPct
+1,0,0,0,11.0,0,38,72
+2,12,18,750,8.5,61,31,78
+3,27,41,1900,6.2,76,22,84
+4,43,65,3200,4.1,88,14,90
+5,56,84,4410,3.0,94,7,94
+6,62,93,4812,2.2,97,3,97

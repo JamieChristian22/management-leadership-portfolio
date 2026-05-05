@@ -1,0 +1,5 @@
+RiskID,Risk,Probability,Impact,Mitigation,Status
+R1,Legacy spreadsheet fields do not map cleanly to CRM fields,High,High,"Create data dictionary, run field-mapping workshops, validate sample records",Closed
+R2,Sales reps avoid updating CRM after launch,High,High,"Adoption dashboard, manager coaching, simplified required fields",Mitigated
+R3,Migration duplicates inflate pipeline value,Medium,High,"Deduplication rules using company name, email domain, and opportunity ID",Closed
+R4,Training attendance is low,Medium,Medium,Record sessions and require completion confirmation,Closed

@@ -1,0 +1,5 @@
+RiskID,Risk,Probability,Impact,Mitigation,Status
+R1,Customers ignore lifecycle emails,Medium,Medium,A/B test subject lines and add in-app prompts,Closed
+R2,CSMs interpret health scores differently,Medium,High,Create health score playbook and calibration meeting,Closed
+R3,Product analytics events are missing,High,High,Audit event instrumentation and align naming conventions,Mitigated
+R4,Engineering backlog delays onboarding prompt,Medium,Medium,Prioritize low-code email and knowledge-base fixes first,Closed

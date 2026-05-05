@@ -1,0 +1,6 @@
+KPI,Baseline,Target,FinalResult,Status
+User Adoption,0%,90%,93%,Exceeded
+Migrated Records,0,"4,800","4,812",Met
+Duplicate Rate,11.0%,3.0%,2.2%,Exceeded
+Pipeline Report Refresh,Weekly,Daily,Daily,Met
+UAT Pass Rate,0%,95%,97%,Exceeded
