@@ -1,0 +1,5 @@
+RiskID,Risk,Probability,Impact,Mitigation,Status
+R1,Department leads resist new shift coverage rules,Medium,High,"Weekly lead huddles, explain sales-labor tradeoff, publish fair rotation rules",Closed
+R2,Inventory counts are inconsistent across closing shifts,High,High,Two-person count verification and nightly exception log,Closed
+R3,Weekend rush creates queue spikes,High,Medium,Add floating cashier trigger when queue reaches 6 customers,Closed
+R4,Employee callouts disrupt labor model,Medium,Medium,Cross-train 8 associates and maintain on-call roster,Mitigated
