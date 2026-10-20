@@ -45,3 +45,29 @@ The operating workbook includes an executive management layer designed for a cor
 The management readout is intentionally action-oriented: what happened, why it happened, what the team is doing, what decision is required, who owns the response, and how sustainment will be tested.
 
 All performance data and outcomes in this project are simulated/modelled for demonstration purposes.
+
+## 🔎 Worked execution and decision evidence
+
+- [Resource and Service Decision Case](15_Resource_and_Service_Decision_Case.md)
+
+These are independent simulated exercises with explicit assumptions; they do not substantiate actual employer outcomes.
+
+## 📁 Source and artifact index
+
+- [01_Executive_Brief.md](01_Executive_Brief.md)
+- [02_Project_Charter.md](02_Project_Charter.md)
+- [03_Current_State_Root_Cause_Analysis.md](03_Current_State_Root_Cause_Analysis.md)
+- [04_Target_Operating_Model.md](04_Target_Operating_Model.md)
+- [05_Labor_Optimization_Plan.md](05_Labor_Optimization_Plan.md)
+- [06_Customer_Experience_Recovery_Plan.md](06_Customer_Experience_Recovery_Plan.md)
+- [07_Shrink_Inventory_Control_Plan.md](07_Shrink_Inventory_Control_Plan.md)
+- [08_Weekly_Operating_Review.md](08_Weekly_Operating_Review.md)
+- [09_Standard_Operating_Procedures.md](09_Standard_Operating_Procedures.md)
+- [10_Change_Management_Comms_Plan.md](10_Change_Management_Comms_Plan.md)
+- [11_Sustainment_and_Handoff.md](11_Sustainment_and_Handoff.md)
+- [12_Data_Dictionary.md](12_Data_Dictionary.md)
+- [13_Decision_Log.md](13_Decision_Log.md)
+- [14_Weekly_Source_Data.csv](14_Weekly_Source_Data.csv)
+- [Retail_Operations_Turnaround_Operating_Workbook.xlsx](Retail_Operations_Turnaround_Operating_Workbook.xlsx)
+
+[Data definitions and evidence limitations](../DATA_QUALITY_AND_EVIDENCE.md) · [Back to portfolio](../README.md)

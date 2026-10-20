@@ -1,507 +1,94 @@
 # 🚀 Management & Leadership Portfolio
 
 ![Management](https://img.shields.io/badge/Management-Leadership-1F4E78?style=for-the-badge)
-![Operations](https://img.shields.io/badge/Operations-Strategy-2F75B5?style=for-the-badge)
-![Project Management](https://img.shields.io/badge/Project-Management-4472C4?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-5B9BD5?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![KPI](https://img.shields.io/badge/KPI-Performance_Management-70AD47?style=for-the-badge)
-![Portfolio](https://img.shields.io/badge/Portfolio-Job_Ready-7030A0?style=for-the-badge)
-
-## 👋 Overview
-
-This portfolio demonstrates hands-on **management, leadership, business operations, project management, performance analysis, and cross-functional decision-making** through simulated corporate projects.
-
-Each project is designed around a realistic business challenge and includes the type of work products used to **diagnose problems, establish KPIs, coordinate stakeholders, manage risk, implement improvements, monitor performance, and sustain results**.
-
-The portfolio spans six major business functions:
-
-* 🏬 Retail Operations
-* 💻 IT Project Management
-* 📦 Product Operations
-* 📈 Marketing Management
-* 🚚 Supply Chain Management
-* 👥 People Operations
-
-A dedicated **Excel Executive Dashboard** section translates project performance into corporate-style management reporting.
-
-> **Portfolio Disclosure:** All organizations, employees, suppliers, customers, financial figures, operational metrics, and performance results presented in this repository are simulated/modelled for portfolio demonstration purposes.
-
----
-
-# 🧭 Portfolio at a Glance
-
-| #      | Business Function          | Project                           | Core Management Focus                          |
-| ------ | -------------------------- | --------------------------------- | ---------------------------------------------- |
-| **01** | 🏬 Retail Operations       | Store Performance Turnaround      | Operational performance & process improvement  |
-| **02** | 💻 IT Project Management   | CRM Implementation                | Technology implementation & project governance |
-| **03** | 📦 Product Operations      | Customer Onboarding Optimization  | Customer lifecycle & product operations        |
-| **04** | 📈 Marketing Management    | Digital Campaign ROI Optimization | Marketing performance & profitable growth      |
-| **05** | 🚚 Supply Chain Management | Supplier OTIF Improvement         | Supplier performance & operational continuity  |
-| **06** | 👥 People Operations       | Onboarding & Retention System     | Employee experience & workforce operations     |
-| **07** | 📊 Executive Reporting     | Corporate Excel Dashboards        | KPI reporting & management decision support    |
-
----
-
-# 🏬 01 — Retail Operations Manager
-
-## Store Performance Turnaround
-
-![Operations](https://img.shields.io/badge/Operations-Performance-2F75B5?style=flat-square)
-![KPI](https://img.shields.io/badge/KPI-Management-70AD47?style=flat-square)
-![Process Improvement](https://img.shields.io/badge/Process-Improvement-5B9BD5?style=flat-square)
-
-### 🎯 Business Challenge
-
-A retail operation is experiencing performance issues across labor efficiency, customer experience, shrink, scheduling, and execution.
-
-### 📊 Key Performance Areas
-
-| KPI                | Baseline |  Target | Modeled Outcome |
-| ------------------ | -------: | ------: | --------------: |
-| Labor Cost         |    18.9% |   16.8% |       **16.7%** |
-| NPS                |       52 |      66 |          **68** |
-| Customer Wait Time |  8.4 min | 5.5 min |     **5.2 min** |
-| Shrink             |     3.8% |    2.6% |        **2.5%** |
-| Schedule Adherence |      74% |     90% |         **92%** |
-| Task Completion    |      71% |     93% |         **94%** |
-
-### 🛠️ Management Capabilities Demonstrated
-
-* Operational performance management
-* Root-cause analysis
-* Labor optimization
-* Customer experience improvement
-* Inventory and shrink controls
-* Standard operating procedures
-* Change management
-* Weekly operating reviews
-* KPI governance
-* Sustainment planning
-
----
-
-# 💻 02 — IT Project Manager
-
-## CRM Implementation
-
-![Project Management](https://img.shields.io/badge/Project-Management-4472C4?style=flat-square)
-![Agile](https://img.shields.io/badge/Delivery-Governance-5B9BD5?style=flat-square)
-![CRM](https://img.shields.io/badge/CRM-Implementation-7030A0?style=flat-square)
-
-### 🎯 Business Challenge
-
-Customer information, sales activity, follow-ups, and reporting are distributed across disconnected tools and manual spreadsheets.
-
-The project establishes a controlled CRM implementation covering requirements, migration, testing, deployment, adoption, and post-launch support.
-
-### 📊 Key Performance Areas
-
-| KPI                 | Target | Modeled Outcome |
-| ------------------- | -----: | --------------: |
-| User Adoption       |   ≥90% |         **93%** |
-| Migration Accuracy  |   ≥98% |       **99.1%** |
-| Duplicate Rate      |    ≤3% |        **2.7%** |
-| UAT Pass Rate       |   ≥95% |         **97%** |
-| Training Completion |   ≥95% |         **96%** |
-| Pipeline Reporting  |  Daily |       **Daily** |
-
-### 🛠️ Management Capabilities Demonstrated
-
-* Project chartering
-* Requirements management
-* Data migration planning
-* UAT and defect management
-* RAID management
-* RACI governance
-* Change control
-* Cutover planning
-* Go/no-go governance
-* Change management
-* Training
-* Hypercare
-* Benefits realization
-
----
-
-# 📦 03 — Product Operations Manager
-
-## Customer Onboarding Optimization
-
-![Product Operations](https://img.shields.io/badge/Product-Operations-7030A0?style=flat-square)
-![Customer Experience](https://img.shields.io/badge/Customer-Experience-5B9BD5?style=flat-square)
-![Optimization](https://img.shields.io/badge/Process-Optimization-70AD47?style=flat-square)
-
-### 🎯 Business Challenge
-
-Customer onboarding is affected by inconsistent handoffs, delayed setup, fragmented tracking, unclear ownership, and limited visibility into activation and time-to-value.
-
-### 📊 Key Performance Areas
-
-| KPI                   | Baseline |   Target | Modeled Outcome |
-| --------------------- | -------: | -------: | --------------: |
-| Onboarding Completion |      72% |     ≥92% |         **94%** |
-| 14-Day Activation     |      61% |     ≥85% |         **87%** |
-| Median Time-to-Value  |  18 days | ≤10 days |      **9 days** |
-| Handoff Completeness  |      68% |     ≥95% |         **97%** |
-| Setup Completion      |      76% |     ≥94% |         **95%** |
-| CSAT                  |    3.8/5 |   ≥4.5/5 |       **4.6/5** |
-| Escalation Rate       |      14% |      ≤6% |          **5%** |
-| 30-Day Retention Risk |      19% |      ≤8% |          **7%** |
-
-### 🛠️ Management Capabilities Demonstrated
-
-* Customer journey analysis
-* Product operations
-* Sales-to-CS handoff governance
-* Activation management
-* Time-to-value optimization
-* Customer success operations
-* Voice-of-customer analysis
-* Product feedback loops
-* Experimentation
-* Cohort analysis
-* Risk management
-* Process sustainment
-
----
-
-# 📈 04 — Marketing Manager
-
-## Digital Campaign ROI Optimization
-
-![Marketing](https://img.shields.io/badge/Marketing-Performance-E97132?style=flat-square)
-![ROI](https://img.shields.io/badge/ROI-Optimization-70AD47?style=flat-square)
-![Analytics](https://img.shields.io/badge/Marketing-Analytics-5B9BD5?style=flat-square)
-
-### 🎯 Business Challenge
-
-Marketing investment is generating traffic and leads without consistent visibility into downstream lead quality, customer conversion, pipeline, and revenue.
-
-### 📊 Key Performance Areas
-
-| KPI                         | Baseline | Target | Modeled Outcome |
-| --------------------------- | -------: | -----: | --------------: |
-| Marketing ROI               |     128% |  ≥190% |        **228%** |
-| ROAS                        |    2.28x | ≥3.10x |       **3.28x** |
-| Cost per Qualified Lead     |     $186 |  ≤$125 |        **$119** |
-| Qualified Lead Rate         |      38% |   ≥55% |         **57%** |
-| Lead-to-Customer Conversion |     8.2% | ≥12.0% |       **12.6%** |
-| Landing-Page Conversion     |     4.1% |  ≥6.0% |        **6.3%** |
-| Sales SLA                   |      63% |   ≥92% |         **94%** |
-| Wasted Spend                |      18% |    ≤7% |          **6%** |
-
-### 🛠️ Management Capabilities Demonstrated
-
-* Marketing performance management
-* ROI and ROAS analysis
-* Attribution governance
-* Channel performance analysis
-* Budget allocation
-* Funnel optimization
-* Lead-quality management
-* Marketing and Sales alignment
-* Campaign experimentation
-* Creative testing
-* Risk and brand governance
-* Executive investment reporting
-
----
-
-# 🚚 05 — Supply Chain Manager
-
-## Supplier OTIF Improvement
-
-![Supply Chain](https://img.shields.io/badge/Supply-Chain-4472C4?style=flat-square)
-![OTIF](https://img.shields.io/badge/Supplier-OTIF-70AD47?style=flat-square)
-![Risk](https://img.shields.io/badge/Risk-Management-C55A11?style=flat-square)
-
-### 🎯 Business Challenge
-
-Inconsistent supplier performance is creating late and incomplete deliveries, stockout risk, premium freight, planning instability, and increased operational intervention.
-
-### 📊 Key Performance Areas
-
-| KPI                       |   Baseline |      Target | Modeled Outcome |
-| ------------------------- | ---------: | ----------: | --------------: |
-| Supplier OTIF             |        76% |        ≥94% |         **95%** |
-| On-Time Delivery          |        82% |        ≥95% |         **96%** |
-| In-Full Delivery          |        88% |        ≥97% |         **98%** |
-| Lead-Time Variance        |   4.8 days |   ≤1.5 days |    **1.3 days** |
-| Supplier Defect Rate      |       3.6% |       ≤1.5% |        **1.3%** |
-| Expedite Cost             | $84K/month | ≤$30K/month |  **$27K/month** |
-| Critical Stockouts        |   12/month |    ≤3/month |     **2/month** |
-| Corrective Action On-Time |        58% |        ≥92% |         **94%** |
-
-### 🛠️ Management Capabilities Demonstrated
-
-* Supplier segmentation
-* OTIF management
-* Supplier scorecards
-* Root-cause analysis
-* Supplier recovery planning
-* SCAR/CAPA management
-* Inventory continuity
-* Expedite-cost control
-* Procurement governance
-* Supply-chain risk management
-* Supplier escalation
-* Sustainment governance
-
----
-
-# 👥 06 — People Operations Manager
-
-## Onboarding & Retention System
-
-![People Operations](https://img.shields.io/badge/People-Operations-7030A0?style=flat-square)
-![Employee Experience](https://img.shields.io/badge/Employee-Experience-5B9BD5?style=flat-square)
-![Retention](https://img.shields.io/badge/Retention-Management-70AD47?style=flat-square)
-
-### 🎯 Business Challenge
-
-New employees experience inconsistent onboarding, delayed system readiness, uneven manager follow-up, incomplete training, unclear expectations, and limited early-tenure support.
-
-### 📊 Key Performance Areas
-
-| KPI                            | Baseline | Target | Modeled Outcome |
-| ------------------------------ | -------: | -----: | --------------: |
-| Day-1 Readiness                |      71% |   ≥96% |         **97%** |
-| Onboarding Completion          |      78% |   ≥96% |         **97%** |
-| Training Completion            |      81% |   ≥97% |         **98%** |
-| Manager 30-Day Check-Ins       |      66% |   ≥95% |         **96%** |
-| 90-Day Role Readiness          |      69% |   ≥90% |         **92%** |
-| New-Hire Satisfaction          |    3.7/5 | ≥4.5/5 |       **4.6/5** |
-| 90-Day Retention               |      84% |   ≥94% |         **95%** |
-| High Retention-Risk Population |      18% |    ≤7% |          **6%** |
-
-### 🛠️ Management Capabilities Demonstrated
-
-* People Operations
-* Employee onboarding
-* Preboarding and Day-1 readiness
-* 30/60/90-day planning
-* Manager accountability
-* Learning and role readiness
-* Employee listening
-* Retention-risk management
-* HR/IT/Payroll coordination
-* Process controls
-* Employee-data governance
-* People analytics
-
----
-
-# 📊 07 — Corporate Excel Executive Dashboards
-
-![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Dashboards](https://img.shields.io/badge/Executive-Dashboards-1F4E78?style=for-the-badge)
-![Analytics](https://img.shields.io/badge/KPI-Analytics-5B9BD5?style=for-the-badge)
-![Reporting](https://img.shields.io/badge/Management-Reporting-4472C4?style=for-the-badge)
-
-The dashboard section translates the six projects into **corporate-style Excel management reporting**.
-
-### 📁 Dashboard Workbooks
-
-* 🏬 Retail Operations Executive Dashboard
-* 💻 CRM Implementation Executive Dashboard
-* 📦 Product Operations Executive Dashboard
-* 📈 Marketing ROI Executive Dashboard
-* 🚚 Supply Chain OTIF Executive Dashboard
-* 👥 People Operations Executive Dashboard
-
-### 📌 Dashboard Features
-
-Each workbook includes:
-
-* Executive KPI dashboard
-* KPI data layer
-* Baseline vs. target vs. current performance
-* Variance analysis
-* Target attainment
-* KPI health indicators
-* Conditional formatting
-* Management charts
-* Executive commentary
-* Leadership priorities
-* Action tracking
-* Owners and due dates
-* Decision/evidence fields
-
----
-
-# 🧠 Core Management & Leadership Competencies
-
-![Leadership](https://img.shields.io/badge/Leadership-Cross_Functional-1F4E78?style=flat-square)
-![Strategy](https://img.shields.io/badge/Strategy-Execution-4472C4?style=flat-square)
-![Analytics](https://img.shields.io/badge/Analytics-Decision_Support-5B9BD5?style=flat-square)
-![Risk](https://img.shields.io/badge/Risk-Controls-C55A11?style=flat-square)
-
-This portfolio demonstrates experience applying:
-
-### 🎯 Strategy & Execution
-
-* Business problem definition
-* Goal setting
-* KPI development
-* Operating-model design
-* Prioritization
-* Implementation planning
-* Benefits realization
-* Sustainment planning
-
-### 📊 Analytics & Decision Support
-
-* KPI analysis
-* Variance analysis
-* Trend analysis
-* Root-cause analysis
-* Cohort analysis
-* Funnel analysis
-* Performance scorecards
-* Executive dashboards
-* Data-driven recommendations
-
-### 🤝 Leadership & Stakeholder Management
-
-* Cross-functional coordination
-* RACI development
-* Stakeholder management
-* Executive communication
-* Decision governance
-* Escalation management
-* Change management
-* Accountability systems
-
-### ⚙️ Operations & Process Improvement
-
-* Current-state assessment
-* Target operating models
-* Standard operating procedures
-* Service-level agreements
-* Workflow optimization
-* Control design
-* Corrective actions
-* Continuous improvement
-
-### ⚠️ Risk & Governance
-
-* Risk registers
-* RAID management
-* Corrective-action tracking
-* Change control
-* Operational controls
-* Escalation frameworks
-* Decision logs
-* Governance cadences
-
----
-
-# 🧰 Tools & Methods
-
-![Excel](https://img.shields.io/badge/Excel-Dashboards-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
-![Data](https://img.shields.io/badge/Data-KPI_Analysis-5B9BD5?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile-Project_Delivery-4472C4?style=flat-square)
-![Continuous Improvement](https://img.shields.io/badge/Continuous-Improvement-70AD47?style=flat-square)
-
-**Tools**
-
-* Microsoft Excel
-* KPI dashboards
-* Scorecards
-* Structured business documentation
-* CSV-based operational datasets
-* Management reporting
-
-**Methods**
-
-* Root-cause analysis
-* KPI management
-* RACI
-* RAID
-* UAT
-* SCAR/CAPA
-* 30/60/90-day planning
-* SLA management
-* Cohort analysis
-* Funnel analysis
-* Voice of Customer
-* Change management
-* Risk and control management
-* Continuous improvement
-
----
-
-# 🏆 Portfolio Value
-
-Rather than presenting management and leadership only as concepts, this repository demonstrates the **actual operating work behind management decisions**.
-
-Across the portfolio, the projects demonstrate the ability to:
-
-**Identify a business problem → establish measurable targets → analyze root causes → design an operating response → coordinate stakeholders → manage execution → monitor KPIs → address risk → communicate with leadership → sustain improvements.**
-
----
-
-# 🔎 Target Role Alignment
-
-![Business Analyst](https://img.shields.io/badge/Business-Analyst-4472C4?style=flat-square)
-![Operations Analyst](https://img.shields.io/badge/Operations-Analyst-5B9BD5?style=flat-square)
-![Project Analyst](https://img.shields.io/badge/Project-Analyst-7030A0?style=flat-square)
-![Product Operations](https://img.shields.io/badge/Product-Operations-70AD47?style=flat-square)
-
-The portfolio is particularly relevant to roles such as:
-
-* Business Analyst
-* Business Operations Analyst
-* Operations Analyst
-* Project Coordinator
-* Project Analyst
-* PMO Analyst
-* Product Operations Analyst
-* Product Coordinator
-* Implementation Analyst
-* Marketing Operations Analyst
-* Supply Chain Analyst
-* People Operations Analyst
-* Customer Success Operations
-* Process Improvement Analyst
-* Management Analyst
-
----
-
-# 📌 Data & Simulation Disclosure
-
-This repository is a **portfolio simulation environment**.
-
-All company scenarios, employee information, customer information, supplier information, financial figures, operational datasets, project results, and KPI improvements are **fictional or simulated/modelled**.
-
-The projects are designed to demonstrate:
-
-* Business analysis
-* Management judgment
-* Leadership processes
-* Data analysis
-* Excel reporting
-* Project execution
-* Operational controls
-* Documentation
-* Decision support
-
-No modeled performance result should be interpreted as a claim of results achieved for a real employer.
-
----
-
-# 📫 Connect
-
-**Jamie Christian**
-
-🎓 B.S. Entrepreneurial Management — Virginia Union University
-💼 Management • Business Operations • Technology • Analytics
-🔗 [LinkedIn](https://www.linkedin.com/in/jamiechristian2/)
-💻 [GitHub](https://github.com/JamieChristian22)
-
----
-
-### ⭐ Management is more than making decisions.
-
-It is the discipline of turning **business problems into measurable actions, accountable execution, and sustainable results.**
+![Operations](https://img.shields.io/badge/Operations-Analysis-2F75B5?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-Reporting-217346?style=for-the-badge)
+![Simulation](https://img.shields.io/badge/Case_Studies-Simulated-7030A0?style=for-the-badge)
+
+**Jamie Christian • Business operations, project coordination, implementation, and management analysis**
+
+Six simulated business cases demonstrate how I structure problems, define measures, organize delivery, evaluate trade-offs, and communicate decisions. Supporting materials include charters, source CSVs, operating workbooks, governance documents, and worked execution exercises.
+
+> **Evidence boundary:** All organizations, business data, approvals, employees, and results are fictional. The original weekly datasets are illustrative trajectories, not measured effects of interventions. These projects demonstrate analytical work and management reasoning; they do not establish employment experience, actual people-management tenure, or production deployment.
+
+## 🧭 Start here
+
+| Review time | Suggested route |
+|---|---|
+| 2 minutes | [Recruiter summary](RECRUITER_PORTFOLIO_SUMMARY.md) → choose a project below |
+| 5 minutes | [CRM delivery case](02_IT_Project_Manager_CRM_Implementation/18_Delivery_Control_Pack.md) → [UAT exercise](02_IT_Project_Manager_CRM_Implementation/19_UAT_Execution_Evidence.md) |
+| 10 minutes | [Retail resource decision](01_Retail_Operations_Manager_Store_Performance_Turnaround/15_Resource_and_Service_Decision_Case.md) → [leadership case](08_Leadership_and_Management_Practice/01_Coaching_Conflict_and_Delegation.md) → [data quality guide](DATA_QUALITY_AND_EVIDENCE.md) |
+| Technical review | [Validation instructions](VALIDATION.md) → source CSVs → [workbook review guide](07_Corporate_Excel_Dashboards/README.md) |
+
+## 📁 Projects and evidence
+
+| Project | Business decision | Explore the work |
+|---|---|---|
+| 🏬 Retail turnaround | Reduce labor inefficiency while protecting service | [Overview](01_Retail_Operations_Manager_Store_Performance_Turnaround/README.md) · [Resource case](01_Retail_Operations_Manager_Store_Performance_Turnaround/15_Resource_and_Service_Decision_Case.md) |
+| 💻 CRM implementation | Control scope, readiness, testing, and release risk | [Overview](02_IT_Project_Manager_CRM_Implementation/README.md) · [Delivery controls](02_IT_Project_Manager_CRM_Implementation/18_Delivery_Control_Pack.md) · [UAT](02_IT_Project_Manager_CRM_Implementation/19_UAT_Execution_Evidence.md) |
+| 📦 Customer onboarding | Improve activation without increasing customer effort | [Overview](03_Product_Operations_Manager_Customer_Onboarding_Optimization/README.md) · [Pilot evaluation](03_Product_Operations_Manager_Customer_Onboarding_Optimization/16_Pilot_Evaluation_and_Decision.md) |
+| 📈 Marketing operations | Allocate spend using economics and lead quality | [Overview](04_Marketing_Manager_Digital_Campaign_ROI_Optimization/README.md) · [Investment case](04_Marketing_Manager_Digital_Campaign_ROI_Optimization/16_Investment_and_Experiment_Decision.md) |
+| 🚚 Supplier performance | Balance service continuity, cost, and supplier risk | [Overview](05_Supply_Chain_Manager_Supplier_OTIF_Improvement/README.md) · [Recovery case](05_Supply_Chain_Manager_Supplier_OTIF_Improvement/16_Supplier_Recovery_and_Contingency_Case.md) |
+| 👥 People operations | Improve readiness and follow-through with fair controls | [Overview](06_People_Operations_Manager_Onboarding_Retention_System/README.md) · [Cohort review](06_People_Operations_Manager_Onboarding_Retention_System/18_Cohort_Readiness_and_Manager_Case.md) |
+| 🤝 Leadership practice | Coach, delegate, resolve conflict, and escalate decisions | [Leadership case](08_Leadership_and_Management_Practice/01_Coaching_Conflict_and_Delegation.md) · [Operating cadence](08_Leadership_and_Management_Practice/02_Management_Operating_System.md) |
+| 📊 Executive reporting | Interpret KPI movement and distinguish data from assumptions | [Workbook guide](07_Corporate_Excel_Dashboards/README.md) · [Metric register](evidence/metric_register.json) |
+
+## 📊 Selected modeled results
+
+These are endpoints from the original source CSVs. They are **scenario values**, not independently observed outcomes or causal impact estimates. Percentage-point changes are different from relative percentage changes.
+
+| Project | Metric | Baseline | Latest | Interpretation |
+|---|---|---:|---:|---|
+| Retail | Labor cost / sales | 18.9% | 16.7% | 2.2 percentage-point decrease |
+| Retail | NPS | 52 | 67 | 15-point increase |
+| Retail | Average wait | 8.4 min | 5.3 min | 3.1-minute decrease |
+| Retail | Schedule adherence | 74% | 91% | 17 percentage-point increase |
+| Retail | Task completion | 71% | 95% | 24 percentage-point increase |
+| CRM | Active-user adoption | 0% | 93% | W1 is pre-rollout; not a comparable mature baseline |
+| CRM | UAT pass rate | 0% | 97% | W1 is pre-testing; independent test population not supplied |
+| Onboarding | 14-day activation | 61% | 87% | 26 percentage-point increase |
+| Onboarding | Median time-to-value | 18 days | 9 days | 9-day decrease |
+| Marketing | Revenue-based marketing return | 128% | 228% | Excludes cost of goods; not profit ROI |
+| Marketing | ROAS | 2.28x | 3.28x | Assumes modeled spend equals ad spend |
+| Supply chain | OTIF | 76% | 95% | 19 percentage-point increase |
+| People operations | 90-day retention | 84% | 95% | Mature-cohort snapshots; not W12 new-hire retention |
+
+[Definitions, percentage units, cohort caveats, and source precedence](DATA_QUALITY_AND_EVIDENCE.md)
+
+## 🛠️ Skills demonstrated
+
+- **Delivery:** requirements traceability, work breakdown, dependencies, acceptance criteria, UAT, change control, and handoff.
+- **Operations:** service standards, capacity planning, exception handling, supplier recovery, and operating reviews.
+- **Leadership:** delegation boundaries, coaching, stakeholder negotiation, decision rights, and escalation.
+- **Analysis:** KPI definitions, source reconciliation, unit economics, scenario sensitivity, and cohort eligibility.
+- **Communication:** executive recommendations, concise status updates, decision logs, and interview walkthroughs.
+
+## 🎯 Career alignment
+
+| Target role | Best starting evidence |
+|---|---|
+| Project Coordinator / PMO Analyst | CRM delivery controls, RAID, readiness gates |
+| Implementation Analyst / Business Analyst | CRM requirement-to-test mapping and handoff |
+| Business Operations / Operations Analyst | Retail economics and supplier contingency |
+| Product Operations / Customer Success Operations | Onboarding pilot and feedback decisions |
+| People Operations Coordinator | Cohort eligibility, readiness, manager follow-up |
+| Team Lead / Assistant Manager | Coaching, delegation, capacity decisions |
+
+Product Owner and management applications should also be supported by relevant experience. These exercises do not demonstrate ownership of a live product backlog or supervision of actual employees.
+
+## ✅ Quality and review
+
+- [Evidence and data-quality policy](DATA_QUALITY_AND_EVIDENCE.md)
+- [Reproducible checks and review scope](VALIDATION.md)
+- [Interview walkthroughs and honest résumé examples](INTERVIEW_AND_APPLICATION_GUIDE.md)
+- [Improvement record](CHANGELOG.md)
+
+The workbook files and PDF guide are supplementary legacy artifacts. See the workbook guide for inspection scope and reconciliation rules before using their figures in an application.
+
+## 📫 Connect
+
+**Jamie Christian**  
+B.S. Entrepreneurial Management — Virginia Union University  
+[LinkedIn](https://www.linkedin.com/in/jamiechristian2/) · [GitHub](https://github.com/JamieChristian22)
+
+[MIT license](LICENSE)

@@ -1,41 +1,37 @@
-# Recruiter-Facing Manager Portfolio Summary
+# Recruiter Summary — Management & Operations Portfolio
 
-## Portfolio Positioning
-This portfolio is built to prove job readiness for entry-level and early-career manager roles. It shows that Jamie Christian can manage projects, people, KPIs, stakeholders, risks, operational workflows, and business outcomes.
+> **Simulated work sample:** All events, people, approvals, records, costs, and outcomes below are fictional portfolio exercises. They are not employer results or evidence of a live system implementation.
 
-## Best Target Roles
-1. Operations Manager / Assistant Operations Manager
-2. Project Coordinator / Junior Project Manager
-3. Business Operations Analyst
-4. Product Operations Manager / Product Owner
-5. Marketing Operations Manager
-6. Supply Chain Analyst / Supply Chain Coordinator
-7. HR Operations Coordinator / People Operations Specialist
-8. Team Lead / Supervisor
+## Candidate focus
 
-## Why This Portfolio Is Strong
-- It includes six completed real-world management scenarios.
-- Every project contains finished artifacts, not blank templates.
-- Each project shows a measurable baseline, target, and final result.
-- The artifacts mirror real workplace documents used by managers.
-- The case studies can be used in interviews, GitHub, LinkedIn, and resume bullet support.
+Jamie Christian • Business operations, project coordination, implementation analysis, and management analysis.
 
-## 30-Second Recruiter Pitch
-“I created a six-project manager portfolio showing real-world management work across operations, IT, product operations, marketing, supply chain, and people operations. Each project includes a charter, stakeholder map, KPI dashboard, risk register, action plan, source data, implementation playbook, and final executive readout. The portfolio proves I can manage priorities, track metrics, communicate with stakeholders, and drive measurable business improvement.”
+This portfolio provides examples of structured analysis, written communication, governance, and decision-making. Role titles describe simulated responsibilities, not employment titles.
 
-## Project-to-Role Match
+## Recommended review
 
-| Project | Strongest Job Match | What It Proves |
+| Role | Work sample | What to evaluate |
 |---|---|---|
-| Retail Operations Turnaround | Operations Manager / Assistant Manager | Labor control, service speed, shrink reduction, team execution |
-| CRM Implementation | IT Project Manager / CRM Business Analyst | Adoption planning, data migration, UAT, reporting, stakeholder alignment |
-| Customer Onboarding Optimization | Product Operations / Customer Success Ops | Activation improvement, customer journey redesign, KPI ownership |
-| Campaign ROI Optimization | Marketing Manager / Marketing Ops | ROAS, CPL, conversion, budget optimization, campaign reporting |
-| Supplier OTIF Improvement | Supply Chain Manager / Operations Analyst | Supplier scorecards, OTIF, cost reduction, production risk control |
-| Onboarding & Retention System | People Operations / HR Ops | Retention, onboarding, manager accountability, employee experience |
+| Project Coordinator / PMO Analyst | [CRM control pack](02_IT_Project_Manager_CRM_Implementation/18_Delivery_Control_Pack.md) | Dependencies, owners, escalation and change decisions |
+| Implementation / Business Analyst | [UAT evidence exercise](02_IT_Project_Manager_CRM_Implementation/19_UAT_Execution_Evidence.md) | Requirements, negative tests, defects and release conditions |
+| Operations Analyst | [Retail decision case](01_Retail_Operations_Manager_Store_Performance_Turnaround/15_Resource_and_Service_Decision_Case.md) | Cost/service trade-offs and sensitivity |
+| Product Operations Analyst | [Onboarding pilot](03_Product_Operations_Manager_Customer_Onboarding_Optimization/16_Pilot_Evaluation_and_Decision.md) | Eligibility, measurement limits and rollout judgment |
+| Team Lead / Assistant Manager | [Leadership case](08_Leadership_and_Management_Practice/01_Coaching_Conflict_and_Delegation.md) | Fair coaching, delegation and conflict resolution |
 
-## LinkedIn Featured Section Caption
-Job-ready manager portfolio featuring six completed real-world case studies across operations, IT project management, product operations, marketing, supply chain, and people operations. Includes charters, KPI dashboards, risk registers, stakeholder maps, action plans, implementation playbooks, and executive readouts.
+## 30-second portfolio introduction
 
-## GitHub Repository Description
-Six complete real-world manager projects with finished artifacts for operations, IT project management, product operations, marketing, supply chain, and people operations roles.
+“I built six simulated business case studies covering operations, CRM implementation, customer onboarding, marketing, supply chain, and people operations. I organized charters, KPIs, decision records, and implementation controls, then added worked exercises showing how I would handle delivery risks and competing priorities. I can explain the assumptions, trace the reported figures to the source files, and discuss where the evidence is limited.”
+
+## Evidence boundaries
+
+The numerical business improvements are modeled. UAT observations and stakeholder approvals in the exercises are fictional. No actual employer savings, production deployment, personnel decisions, or customer results are claimed. Workbook presence alone does not establish Excel proficiency; reviewers can ask the candidate to explain or modify a formula live.
+
+## Strongest interview questions
+
+1. Which decision protected customer service while reducing cost?
+2. What would stop a CRM release even when the aggregate test pass rate was high?
+3. How do you know the onboarding pilot improved results rather than merely selecting easier customers?
+4. Which metrics need mature cohorts or additional cost assumptions?
+5. What did you delegate, retain, and escalate in the leadership exercise?
+
+[Full portfolio](README.md) · [Interview guide](INTERVIEW_AND_APPLICATION_GUIDE.md)

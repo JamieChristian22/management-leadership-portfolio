@@ -1,0 +1,5 @@
+Local review: 2026-10-20
+PASS: 1225 checks; 6 datasets; 43 registered metrics; 13 README endpoints.
+Scope: source/register consistency, rate units, marketing math, OTIF bounds, and local file links.
+PASS: fault-injection check rejected an incorrect retail NPS headline; original file restored.
+Not tested: real business outcomes, spreadsheet recalculation/rendering, external URLs, Markdown anchors.

@@ -1,0 +1,197 @@
+[
+  {
+    "path": "03_Product_Operations_Manager_Customer_Onboarding_Optimization/Product_Operations_Onboarding_Operating_Workbook.xlsx",
+    "sheets": [
+      "Weekly_Data",
+      "Executive_Dashboard",
+      "Cohort_Health",
+      "Action_Plan",
+      "Risk_Register",
+      "Handoff_Quality",
+      "VOC_Product_Feedback",
+      "Experiment_Log",
+      "Control_Log"
+    ],
+    "formulas": 46,
+    "cached_formula_values": 46,
+    "stored_errors": [],
+    "broken_formula_references": 0
+  },
+  {
+    "path": "01_Retail_Operations_Manager_Store_Performance_Turnaround/Retail_Operations_Turnaround_Operating_Workbook.xlsx",
+    "sheets": [
+      "Weekly_Data",
+      "Executive_Dashboard",
+      "Action_Plan",
+      "Risk_Register",
+      "Stakeholder_RACI",
+      "Control_Log"
+    ],
+    "formulas": 66,
+    "cached_formula_values": 66,
+    "stored_errors": [],
+    "broken_formula_references": 0
+  },
+  {
+    "path": "07_Corporate_Excel_Dashboards/03_Product_Operations_Corporate_Dashboard.xlsx",
+    "sheets": [
+      "Executive Dashboard",
+      "KPI Data",
+      "Management Actions"
+    ],
+    "formulas": 60,
+    "cached_formula_values": 60,
+    "stored_errors": [],
+    "broken_formula_references": 0
+  },
+  {
+    "path": "06_People_Operations_Manager_Onboarding_Retention_System/People_Operations_Onboarding_Retention_Operating_Workbook.xlsx",
+    "sheets": [
+      "Weekly_Data",
+      "Executive_Dashboard",
+      "Cohort_Health",
+      "Day1_Readiness",
+      "Manager_Checkins",
+      "Training_Readiness",
+      "SLA_Exceptions",
+      "Action_Plan",
+      "Process_Risk_Register",
+      "Employee_Feedback",
+      "Control_Log"
+    ],
+    "formulas": 58,
+    "cached_formula_values": 58,
+    "stored_errors": [],
+    "broken_formula_references": 0
+  },
+  {
+    "path": "07_Corporate_Excel_Dashboards/05_Supply_Chain_Corporate_Dashboard.xlsx",
+    "sheets": [
+      "Executive Dashboard",
+      "KPI Data",
+      "Management Actions"
+    ],
+    "formulas": 60,
+    "cached_formula_values": 60,
+    "stored_errors": [],
+    "broken_formula_references": 0
+  },
+  {
+    "path": "05_Supply_Chain_Manager_Supplier_OTIF_Improvement/Supplier_OTIF_Improvement_Operating_Workbook.xlsx",
+    "sheets": [
+      "Weekly_Data",
+      "Executive_Dashboard",
+      "Supplier_Scorecard",
+      "Action_Plan",
+      "Risk_Register",
+      "SCAR_CAPA_Log",
+      "Expedite_Log",
+      "Continuity_Risk",
+      "Control_Log"
+    ],
+    "formulas": 46,
+    "cached_formula_values": 46,
+    "stored_errors": [],
+    "broken_formula_references": 0
+  },
+  {
+    "path": "Manager_Portfolio_Dashboards.xlsx",
+    "sheets": [
+      "Portfolio Overview",
+      "Project 1",
+      "Project 2",
+      "Project 3",
+      "Project 4",
+      "Project 5",
+      "Project 6"
+    ],
+    "formulas": 0,
+    "cached_formula_values": 0,
+    "stored_errors": [],
+    "broken_formula_references": 0
+  },
+  {
+    "path": "04_Marketing_Manager_Digital_Campaign_ROI_Optimization/Marketing_ROI_Optimization_Operating_Workbook.xlsx",
+    "sheets": [
+      "Weekly_Data",
+      "Executive_Dashboard",
+      "Channel_Scorecard",
+      "Budget_Allocation",
+      "Funnel_Performance",
+      "Action_Plan",
+      "Risk_Register",
+      "Experiment_Log",
+      "Sales_SLA",
+      "Control_Log"
+    ],
+    "formulas": 68,
+    "cached_formula_values": 68,
+    "stored_errors": [],
+    "broken_formula_references": 0
+  },
+  {
+    "path": "07_Corporate_Excel_Dashboards/02_CRM_Implementation_Corporate_Dashboard.xlsx",
+    "sheets": [
+      "Executive Dashboard",
+      "KPI Data",
+      "Management Actions"
+    ],
+    "formulas": 60,
+    "cached_formula_values": 60,
+    "stored_errors": [],
+    "broken_formula_references": 0
+  },
+  {
+    "path": "02_IT_Project_Manager_CRM_Implementation/CRM_Implementation_PMO_Operating_Workbook.xlsx",
+    "sheets": [
+      "Weekly_Data",
+      "Executive_Dashboard",
+      "RAID_Log",
+      "Action_Plan",
+      "UAT_Defects",
+      "RACI",
+      "Cutover_Checklist",
+      "Change_Log"
+    ],
+    "formulas": 41,
+    "cached_formula_values": 41,
+    "stored_errors": [],
+    "broken_formula_references": 0
+  },
+  {
+    "path": "07_Corporate_Excel_Dashboards/04_Marketing_ROI_Corporate_Dashboard.xlsx",
+    "sheets": [
+      "Executive Dashboard",
+      "KPI Data",
+      "Management Actions"
+    ],
+    "formulas": 60,
+    "cached_formula_values": 60,
+    "stored_errors": [],
+    "broken_formula_references": 0
+  },
+  {
+    "path": "07_Corporate_Excel_Dashboards/01_Retail_Operations_Corporate_Dashboard.xlsx",
+    "sheets": [
+      "Executive Dashboard",
+      "KPI Data",
+      "Management Actions"
+    ],
+    "formulas": 60,
+    "cached_formula_values": 60,
+    "stored_errors": [],
+    "broken_formula_references": 0
+  },
+  {
+    "path": "07_Corporate_Excel_Dashboards/06_People_Operations_Corporate_Dashboard.xlsx",
+    "sheets": [
+      "Executive Dashboard",
+      "KPI Data",
+      "Management Actions"
+    ],
+    "formulas": 60,
+    "cached_formula_values": 60,
+    "stored_errors": [],
+    "broken_formula_references": 0
+  }
+]

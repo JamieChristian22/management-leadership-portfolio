@@ -18,6 +18,6 @@ ROI 128% → >=190%; ROAS 2.28x → >=3.10x; CPQL $186 → <=$125; qualified lea
 6. Establish test-and-learn and weekly investment governance.
 
 ## Modeled Week-12 Outcome
-ROI 201%, ROAS 3.28x, CPQL $119, qualified lead rate 57%, lead-to-customer conversion 12.6%, landing-page conversion 6.3%, sales SLA 94%, and wasted spend 6%.
+ROI 228%, ROAS 3.28x, CPQL $119, qualified lead rate 57%, lead-to-customer conversion 12.6%, landing-page conversion 6.3%, sales SLA 94%, and wasted spend 6%.
 
 > Outcomes are simulated/modelled.
