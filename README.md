@@ -92,3 +92,7 @@ B.S. Entrepreneurial Management — Virginia Union University
 [LinkedIn](https://www.linkedin.com/in/jamiechristian2/) · [GitHub](https://github.com/JamieChristian22)
 
 [MIT license](LICENSE)
+
+## Reviewer guide and asset provenance
+
+Use [REVIEWER_GUIDE.md](REVIEWER_GUIDE.md) to navigate tracked evidence and review sample dataset/media source and reuse rights. Listings are not proof of ownership or license clearance.
